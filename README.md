@@ -12,7 +12,7 @@ O objetivo é praticar desenvolvimento front-end e acompanhar minha evolução.
 
 | Projeto | Descrição |
 |-------|-------|
-| Tela de cadastro | Tela de login e de cadastro |
+| [Tela de cadastro](./frontend-cadastro/) | Tela de login e de cadastro |
 
 ## 🚀 Tecnologias
 
